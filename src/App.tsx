@@ -204,7 +204,7 @@ function App() {
               className="flex items-center justify-center gap-4 mb-12"
               whileInView={{ 
                 scale: [0.5, 1.2, 1],
-                rotate: [0, 360, 0]
+                
               }}
               viewport={{ once: true }}
               transition={{ duration: 1 }}
@@ -322,7 +322,7 @@ Currently, I am working at Nepa Rudraksha, where I started as a PHP Developer, t
               className="flex items-center justify-center gap-4 mb-12"
               whileInView={{ 
                 scale: [0.5, 1.2, 1],
-                rotate: [0, 360, 0]
+                
               }}
               viewport={{ once: true }}
               transition={{ duration: 1 }}
@@ -386,7 +386,7 @@ Currently, I am working at Nepa Rudraksha, where I started as a PHP Developer, t
               className="flex items-center justify-center gap-4 mb-12"
               whileInView={{ 
                 scale: [0.5, 1.2, 1],
-                rotate: [0, 360, 0]
+              
               }}
               viewport={{ once: true }}
               transition={{ duration: 1 }}
